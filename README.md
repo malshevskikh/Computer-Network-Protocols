@@ -23,4 +23,5 @@
 </ol>
 
 <h3>Примерный вид сети:</h3>
+
 ![Снимок экрана 2025-04-11 193158](https://github.com/user-attachments/assets/8b48ac83-c65f-4c45-ba93-c28633fd207c)
