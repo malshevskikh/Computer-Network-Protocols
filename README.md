@@ -34,3 +34,9 @@
   <li>Virtual PC (VPCS) – используется в качестве компьютера; </li>
   <li>Cisco IOS 7206VXR (Dynamips) – используется в качестве маршрутизатора; </li>
 </ol>
+
+<h3>Вид сети, спроектированной в EVE_NG:</h3>
+
+![image](https://github.com/user-attachments/assets/edca5659-1e24-4b56-b306-448921fadd1b)
+
+
