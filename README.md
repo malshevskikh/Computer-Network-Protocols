@@ -41,7 +41,7 @@
 
 <h3>Адресация сети:</h3>
 
-| Syntax      | Description |
+| Сеть 192.168.1.0/24 |       |              |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
