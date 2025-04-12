@@ -118,4 +118,37 @@
 |     ROUTER8                 |     192.168.1.1               |     200.0.0.10             |     fa1/0                   |     fa2/0                |
 |                             |     192.168.4.1               |     200.0.0.20             |     fa1/0                   |     fa2/0                |
 
+<h3>В ходе выполнения работы была проверена реализованная работа сети с помощью PING между компонентами 2-х подсетей. Также проверена работа статической маршрутизации левой подсети. Корректная работа левой подсети приведена на рисунках ниже:</h3>
+
+<h4>PING с PC1 во все сети левой подсети</h4>
+
+![image](https://github.com/user-attachments/assets/01e183d6-f8ed-420f-a921-c91e96545173)
+
+
+<h4>PING с PC2 во все сети левой подсети</h4>
+
+![image](https://github.com/user-attachments/assets/b1508d11-0f0c-4019-976e-81aaa83e5925)
+
+
+<h4>PING с ROUTER1 во все сети левой подсети</h4>
+
+![image](https://github.com/user-attachments/assets/af9bbb00-c4fd-4ee1-926a-416ece4511d6)
+
+
+<h4>PING с ROUTER2 во все сети левой подсети</h4>
+
+![image](https://github.com/user-attachments/assets/986a2b2b-4159-4fd0-b977-76b650896c9a)
+
+
+<h4>PING с ROUTER3 во все сети левой подсети</h4>
+
+![image](https://github.com/user-attachments/assets/7a283693-54b0-4571-95c7-c30ef303829d)
+
+
+<h4>PING с ROUTER4 во все сети левой подсети</h4>
+
+![image](https://github.com/user-attachments/assets/a0bfb4ed-99bd-4685-a729-af9bbdff0818)
+
+
+<h3>Была проверена проверка работы статической маршрутизации правой подсети. Корректная работа левой подсети приведена на рисунках ниже:</h3>
 
