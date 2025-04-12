@@ -151,4 +151,44 @@
 
 
 <h3>Была проверена проверка работы статической маршрутизации правой подсети. Корректная работа левой подсети приведена на рисунках ниже:</h3>
+<h4>PING с PC4 во все сети правой подсети</h4>
+
+![image](https://github.com/user-attachments/assets/887afc76-632f-4b28-83fc-9a4f21f7101f)
+
+
+<h4>PING с PC3 во все сети правой подсети</h4>
+
+![image](https://github.com/user-attachments/assets/4977719e-0ed5-4931-b928-cf762ca91cd4)
+
+<h4>PING с ROUTER5 во все сети правой подсети</h4>
+
+![image](https://github.com/user-attachments/assets/6b7fc5aa-dec1-4f25-a2b4-04466a7edc61)
+
+<h4>PING с ROUTER6 во все сети правой подсети</h4>
+
+![image](https://github.com/user-attachments/assets/3da507b0-b98b-49b0-b716-93a59d157bb8)
+
+
+<h4>PING с ROUTER7 во все сети правой подсети</h4>
+
+![image](https://github.com/user-attachments/assets/3273d4ec-0ee3-4c1d-bfe9-ebca88399a33)
+
+<h4>PING с ROUTER8 во все сети правой подсети</h4>
+
+![image](https://github.com/user-attachments/assets/a78f7100-2f36-43ad-9309-c365fb7c2da0)
+
+<h3>Была проверена работа маршрутизации между 2-мя сетями. Проверка представлена на рисунках ниже:</h3>
+<h4>PING с ROUTER4 в ROUTER8</h4>
+
+![image](https://github.com/user-attachments/assets/d03efc48-2721-4835-88c3-1ca11a6c54aa)
+
+<h4>PING с ROUTER8 в ROUTER4</h4>
+
+![image](https://github.com/user-attachments/assets/897d8e5e-abe2-4ce0-8596-a3fdebd62dfb)
+
+<h3>Была проверена работа статического NAT, а именно PING с компьютеров из одной сети (левой/правой) в соседнюю. Результаты выполнения команд изображены на рисунках ниже:</h3>
+
+
+
+
 
